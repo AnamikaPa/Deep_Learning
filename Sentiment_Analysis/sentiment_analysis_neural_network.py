@@ -1,3 +1,7 @@
+"""
+First run sentiment_analysis_using_deep_learning.py
+"""
+
 import tensorflow as tf 
 import numpy as np
 import pickle
